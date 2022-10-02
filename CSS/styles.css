@@ -1,0 +1,12 @@
+/* This file is used to apply Style to the HTML file.*/
+ol, ul{
+    color: brown;
+}
+
+.paragraph{
+    color: rgb(127, 66, 48);
+}
+
+.unorderd-items:nth-child(3) {
+    letter-spacing: 6px;
+}
